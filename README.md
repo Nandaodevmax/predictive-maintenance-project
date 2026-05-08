@@ -30,3 +30,12 @@ A Decision Tree Classifier was used to predict failures based on input variables
 - Use larger datasets
 - Improve model accuracy
 - Apply in real industrial scenarios
+predictive-maintenance-project/
+│
+├── data/
+│   └── manutencao.csv
+│
+├── notebook/
+│   └── analise.ipynb
+│
+├── README.md
