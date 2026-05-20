@@ -117,3 +117,21 @@ https://www.linkedin.com/in/fernando-data-scientist/
 
 GitHub:
 https://github.com/Nandaodevmax
+
+# 📊 Project Visualizations
+
+## Scatter Plot
+
+![Scatter Plot](images/scatter_plot.png)
+
+---
+
+## Correlation Heatmap
+
+![Heatmap](images/heatmap.png)
+
+---
+
+## Executive Dashboard
+
+![Dashboard](images/dashboard.png)
