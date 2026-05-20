@@ -113,7 +113,7 @@ Industrial Maintenance Professional transitioning into Data Science and Artifici
 # 🔗 Connect with Me
 
 LinkedIn:
-(Add your LinkedIn link here)
+https://www.linkedin.com/in/fernando-data-scientist/
 
 GitHub:
-(Add your GitHub link here)
+https://github.com/Nandaodevmax
